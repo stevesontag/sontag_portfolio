@@ -32,6 +32,16 @@ h3 {
   cursor: pointer;
 }
 
+.thumbnail1 {
+  width: 160px;
+  height: 160px;
+  background-color:white;
+  margin: 16px;
+  float: left;
+  cursor: pointer;
+}
+
+
 .text {
   color: #666666;
   padding-top: 20px;
